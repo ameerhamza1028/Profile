@@ -375,6 +375,9 @@ span{
 	color: var(--second-bg-color)
 }
 
+#loom-companion-mv3{
+	display:none !important; 
+}
 
 @media (max-width: 1200px){
 	html{
